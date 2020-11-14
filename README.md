@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**mazuninky/mazuninky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Kotlin Software developer in Tinkoff.
 
-Here are some ideas to get you started:
+Ex [Tusion](https://tusion.xyz/) and [NRBoom](https://nrboom.com/) cofounder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently working on a backend for the Mpeix mobile application.
+
+```kotlin
+val mazuninky = developer {
+    about {
+        name = "Mazunin Konstantin"
+        company = Tinkoff
+    }
+    education {
+        level = Degree.MAGISTER
+        institution = ITMO
+        graduationYear = 2022
+    }
+}
+```
+
+<div>
+    <a href="https://github.com/mazuninky"><img height="200" width="500" src="https://github-readme-stats.vercel.app/api?username=mazuninky&show_icons=true&theme=buefy" /></a>
+    <a href="https://github.com/mazuninky"><img height="200" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazuninky&layout=compact&hide=Jupyter+Notebook,TeX" /></a>
+</div>
