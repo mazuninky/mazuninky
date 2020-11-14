@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I am Kotlin Software developer in Tinkoff.
+I am Kotlin software developer in Tinkoff.
 
 Ex [Tusion](https://tusion.xyz/) and [NRBoom](https://nrboom.com/) cofounder
 
-I am currently working on a backend for the Mpeix mobile application.
+I am currently working on a backend for the MpeiX mobile application.
 
 ```kotlin
 val mazuninky = developer {
@@ -21,6 +21,6 @@ val mazuninky = developer {
 ```
 
 <div>
-    <a href="https://github.com/mazuninky"><img height="200" width="500" src="https://github-readme-stats.vercel.app/api?username=mazuninky&show_icons=true&theme=buefy" /></a>
-    <a href="https://github.com/mazuninky"><img height="200" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazuninky&layout=compact&hide=Jupyter+Notebook,TeX" /></a>
+    <a href="https://github.com/mazuninky"><img height="300" width="400" src="https://github-readme-stats.vercel.app/api?username=mazuninky&show_icons=true&theme=buefy" /></a>
+    <a href="https://github.com/mazuninky"><img height="300" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazuninky&layout=compact&hide=Jupyter+Notebook,TeX11" /></a>
 </div>
