@@ -4,18 +4,15 @@ I am Kotlin software developer in Tinkoff.
 
 Ex [Tusion](https://tusion.xyz/) and [NRBoom](https://nrboom.com/) cofounder
 
-I am currently working on a backend for the MpeiX mobile application.
-
 ```kotlin
 val mazuninky = developer {
     about {
         name = "Mazunin Konstantin"
-        company = Tinkoff
     }
     education {
-        level = Degree.MAGISTER
+        level = Degree.BACHELOR
         institution = ITMO
-        graduationYear = 2022
+        graduationYear = 2020
     }
 }
 ```
